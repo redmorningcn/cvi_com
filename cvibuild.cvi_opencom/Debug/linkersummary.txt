@@ -1,0 +1,12 @@
+cvi_ansytimer.obj
+cvi_com1.obj
+cvi_com_operate.obj
+main.obj
+cvi.lib
+cvistart.lib
+asynctmr.obj
+kernel32.lib
+user32.lib
+EXE Symbol Module
+Exports Module
+Resource Module
